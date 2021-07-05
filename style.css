@@ -16,8 +16,9 @@ section{
     padding-left: 10%;
 }
 .half-width img{
-    width: 50%;
+    width: 90%;
     padding-right: 10%;
+    padding-top: 20%;
 
 }
 .link-button{
@@ -37,4 +38,7 @@ section{
     background-image: url(developer-portfolio-master/images/top-banner.png);
     background-repeat: no-repeat;
     margin: 0%;
+}
+.tomato-color{
+    color: tomato;
 }
